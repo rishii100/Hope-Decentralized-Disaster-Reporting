@@ -1,4 +1,4 @@
-#  Hope (Track: Smart Contracts & DApps)
+#  Hope 
 
 **Hope** is a decentralized disaster reporting platform that leverages **blockchain, AI, and a volunteer-driven DAO** to ensure **trustworthy and efficient disaster response**. It incentivizes **accurate reporting** and facilitates **real-time fundraising** for affected communities.  
 
