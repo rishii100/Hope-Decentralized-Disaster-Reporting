@@ -7,7 +7,7 @@
 
    - Hosted Link: [Deployed Link](https://hope-hack-x.vercel.app/)
 
-   - PPT: [Presentation Link](https://drive.google.com/file/d/1kZ51HyFSWl0-m7eQprGb7mxKmbnwRGzp/view?usp=sharing)
+   - PPT: [Presentation Link](https://drive.google.com/file/d/1DF6T4GCTzdPyu9CLja8pyaQqmVTg9_JO/view?usp=sharing)
      
 ##  Key Features  
 ✅ **Decentralized Reporting** – No central authority; anyone can report disasters.  
