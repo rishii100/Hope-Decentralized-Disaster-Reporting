@@ -1,4 +1,4 @@
-#  Hope 
+#  Hope
 
 **Hope** is a decentralized disaster reporting platform that leverages **blockchain, AI, and a volunteer-driven DAO** to ensure **trustworthy and efficient disaster response**. It incentivizes **accurate reporting** and facilitates **real-time fundraising** for affected communities.  
 
@@ -59,8 +59,8 @@ Hope integrates **AI, blockchain, and decentralized verification** to provide a 
 ###  Setup Instructions  
 1️⃣ **Clone the Repository:**  
 ```sh
-https://github.com/rishii100/hope-project.git
-cd hope-project
+https://github.com/rishii100/hope-decentralized-disaster-reporting.git
+cd hope-decentralized-disaster-reporting
 ```
 2️⃣ **Install Dependencies:**  
 ```sh
